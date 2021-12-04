@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-08T13:53:43 WAT" name="Default suite" finished-at="2021-11-08T13:54:00 WAT" duration-ms="16942">
+    <groups>
+    </groups>
+    <test started-at="2021-11-08T13:53:43 WAT" name="Default test" finished-at="2021-11-08T13:54:00 WAT" duration-ms="16942">
+      <class name="TestDeamon.ColorNote.AppTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestDeamon.ColorNote.AppTest@5af3afd9]" started-at="2021-11-08T13:53:43 WAT" name="Setup" finished-at="2021-11-08T13:53:54 WAT" duration-ms="11433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="test()[pri:0, instance:TestDeamon.ColorNote.AppTest@5af3afd9]" started-at="2021-11-08T13:53:54 WAT" name="test" finished-at="2021-11-08T13:53:54 WAT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestDeamon.ColorNote.AppTest@5af3afd9]" started-at="2021-11-08T13:53:54 WAT" name="tearDown" finished-at="2021-11-08T13:54:00 WAT" duration-ms="5448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestDeamon.ColorNote.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
